@@ -1,0 +1,4 @@
+- configure the connection to the SignalR server TA#01
+- send the message to the hub directly TA#02
+- listen on the receive message method TA#03
+
